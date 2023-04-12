@@ -1,4 +1,21 @@
 {
+  "users": [
+    {
+      "userid": 281573037,
+      "realname": "Mardi Gras",
+      "useremail": "mgras@emailz.com"
+    },
+    {
+      "userid": 658204429,
+      "realname": "Bob Seger",
+      "useremail": "bseger@yahooz.com"
+    },
+    {
+      "userid":  834719874,
+      "realname": "Howzit Going",
+      "useremail": "hgoing@behappy.com"
+    }
+  ],
   "orders": [
     {
       "orderid": 123,
